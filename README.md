@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 📚 MSc. in Hydraulic Engineering and Sanitation at University of São Paulo
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Julia
 - 📫 How to reach me: yuriishizawa@gmail.com
